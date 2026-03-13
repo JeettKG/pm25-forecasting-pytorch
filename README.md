@@ -2,14 +2,25 @@
 End‑to‑end machine learning pipeline predicting PM2.5 levels using PyTorch
 
 # Features
-Data preprocessing & cleaning
+1.Data preprocessing & cleaning
 
-Exploratory Data Analysis (EDA)
+2.Exploratory Data Analysis (EDA)
 
-PyTorch regression model
+3.PyTorch regression model
 
-Hyperparameter search
+4.Hyperparameter search
 
-Model evaluation & prediction plots
+5.Model evaluation & prediction plots
 
-Interactive Shiny app for visualization
+6.Interactive Shiny app for visualization
+
+# Tech Stack
+Python
+
+PyTorch
+
+Pandas, NumPy
+
+Matplotlib / Seaborn
+
+Shiny for Python
